@@ -1,0 +1,11 @@
+**/*.pyc
+orl_faces/
+*.cmproj
+*.mp4
+flowers/
+CarData/
+*.trec
+*.cmproj/recordings/*
+*.dot
+*.zip
+*.gz
